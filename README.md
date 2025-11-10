@@ -1,4 +1,4 @@
-# Python Projects for Beginners
+# Python Beginners
 
 🐍 Python Projects for Beginners
 
@@ -53,7 +53,7 @@ Build confidence to tackle intermediate-level Python projects.
 
 Clone this repository:
 
-git clone https://github.com/rakeshb99/python-projects-for-beginners.git
+git clone https://github.com/rakeshb99/python-starter-projects.git
 
 
 Navigate to the project folder:
@@ -74,4 +74,4 @@ If you’d like to enhance existing projects or add new ones, feel free to fork 
 
 For any questions, suggestions, or feedback, reach out via:
 📧rakeshb123.dvg@gmail.com
-💼linkedin.com/in/rakesh-b-8475b4lb3
+💼linkedin.com/in/rakesh-b-8475b41b3
